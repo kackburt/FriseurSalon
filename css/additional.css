@@ -28,6 +28,10 @@ body {
   margin: 50px;
 }
 
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
 .footer {
   margin: 0% 5% 0% 5%;
 }
